@@ -1,0 +1,10 @@
+*.iml
+*.eml
+.classpath
+.project
+**/.settings
+**/.idea
+target
+**/.DS_Store
+**/gaia-logs
+epg_generation/**
