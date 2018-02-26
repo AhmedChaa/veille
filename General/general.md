@@ -6,3 +6,7 @@
 
 ###Questions
 - http://www.java2novice.com/
+
+### Kafka or RabbitMQ : It's not the same thing
+
+- https://content.pivotal.io/blog/understanding-when-to-use-rabbitmq-or-apache-kafka
